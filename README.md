@@ -80,8 +80,6 @@ This project is open-source and free to use. Attribution appreciated!
 🙋‍♂️ Created by
 Abdul Ahad
 📧 abdul.ahadt732@gmail.com
-🌐 LinkedIn • GitHub
-
 
 ---
 
